@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Check Out My Channel While Waiting- https://youtu.be/VeO22kIvZOQ" >&2
+printf "WE CREATE AUVER AWN DEMANS" >&2
 {
 sudo useradd -m DEDSEC
 sudo adduser DEDSEC sudo
