@@ -28,4 +28,4 @@ printf '\nCheck https://remotedesktop.google.com/headless  Copy Command Of Debia
 read -p "Paste Here: " CRP
 su - DEDSEC -c """$CRP"""
 printf 'Check https://remotedesktop.google.com/access/ \n'
-printf 'Your SUDO Pasword Is H4ckme@007 \n'
+printf 'Your SUDO Pasword Is H4ckme \n'
