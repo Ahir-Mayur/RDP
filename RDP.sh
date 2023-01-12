@@ -3,7 +3,7 @@ printf "😈😈 WE CREATE OUR OWN DEMONS 😈😈" >&2
 {
 sudo useradd -m DEDSEC
 sudo adduser DEDSEC sudo
-echo 'DEDSEC:H4ckme@007' | sudo chpasswd
+echo 'DEDSEC:H4ckme' | sudo chpasswd
 sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
 sudo apt-get update
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
